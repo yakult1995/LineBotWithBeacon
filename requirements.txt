@@ -1,0 +1,7 @@
+line-bot-sdk
+flask
+gunicorn
+pytz
+pymongo
+urllib3
+lxml
